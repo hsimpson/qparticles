@@ -1,0 +1,16 @@
+<RCC>
+  <qresource>
+      <file>clkernels/particle_kernel.cl</file>
+  </qresource>
+  <qresource>
+    <file>translations/qparticles_de.qm</file>
+    <file>translations/qparticles_en.qm</file>
+  </qresource>
+  <qresource>
+    <file>shaders/particle.vert</file>
+    <file>shaders/particle_cube.geom</file>
+    <file>shaders/particle.frag</file>
+    <file>shaders/boundingbox.vert</file>
+    <file>shaders/boundingbox.frag</file>
+  </qresource>
+</RCC>
